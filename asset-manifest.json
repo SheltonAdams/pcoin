@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SheltonAdams/pcoin/static/css/main.7896c2cd.css",
+    "main.js": "/SheltonAdams/pcoin/static/js/main.43e39243.js",
+    "static/media/Video.mp4": "/SheltonAdams/pcoin/static/media/Video.223346d7f9bd5335abeb.mp4",
+    "static/media/Video1.mp4": "/SheltonAdams/pcoin/static/media/Video1.948b3e4b25b3444732a8.mp4",
+    "static/media/Img1.png": "/SheltonAdams/pcoin/static/media/Img1.eea7c3af81229a46376d.png",
+    "static/media/Img4.svg": "/SheltonAdams/pcoin/static/media/Img4.cb9d1a79bc049e3477b9c692779cda5d.svg",
+    "static/media/Icon4.svg": "/SheltonAdams/pcoin/static/media/Icon4.d9af747c23fb2f45c1dfa46fdb0083c9.svg",
+    "static/media/Img5.svg": "/SheltonAdams/pcoin/static/media/Img5.39570643b46be3ba9015eced938918c7.svg",
+    "static/media/Icon2.svg": "/SheltonAdams/pcoin/static/media/Icon2.0b9806dd97ad30de7f4271c7c650d4a3.svg",
+    "static/media/Icon1.svg": "/SheltonAdams/pcoin/static/media/Icon1.a3bae7d559e59f5ddb5e3196a107fb65.svg",
+    "static/media/Icon3.svg": "/SheltonAdams/pcoin/static/media/Icon3.5f93dea2069ec8e5633fd48d45624c00.svg",
+    "index.html": "/SheltonAdams/pcoin/index.html",
+    "main.7896c2cd.css.map": "/SheltonAdams/pcoin/static/css/main.7896c2cd.css.map",
+    "main.43e39243.js.map": "/SheltonAdams/pcoin/static/js/main.43e39243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7896c2cd.css",
+    "static/js/main.43e39243.js"
+  ]
+}
